@@ -1,0 +1,20 @@
+[
+	{
+		"enigma": {
+			"name": [
+				"enigma/Coma, ENiGMA Dubz - And The World Was Gone.mp3",
+				"enigma/Enigma - Gravity Of Love.mp3",
+				"enigma/Enigma - Hello And Welcome.mp3"
+			],
+			"poster": "enigma-poster.jpg"
+		}
+	},
+	{
+		"ultrabass": {
+			"name": [
+				"ultrabass/Ultrabass - An Ocean of Dreams.mp3"
+			],
+			"poster": "ultrabass-poster.jpg"
+		}
+	}
+]
